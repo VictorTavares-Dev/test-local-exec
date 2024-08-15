@@ -1,0 +1,9 @@
+============================= test session starts =============================
+platform win32 -- Python 3.10.2, pytest-7.1.2, pluggy-1.0.0
+rootdir: C:\Users\Victor\Documents\Code\Repos\test-terraform
+plugins: anyio-4.3.0
+collected 2 items
+
+test_script.py ..                                                        [100%]
+
+============================== 2 passed in 0.02s ==============================
