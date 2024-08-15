@@ -51,7 +51,7 @@ terraform_data.test: Creation complete after 0s [id=04740deb-b56c-45f2-599c-e869
 
 ## New implementations
 Below, some features to be implemented:
-1. Consider to use IAM role credentials to adhere the least privillege approach;
-2. Output the results in an S3 bucket;
-3. Create the process documentation in order to detail the correct use of the repository.
-
+1. Must implement a way to install python dependencies in the container;
+2. Consider to use IAM role credentials to adhere the least privillege approach;
+3. Output the results in an S3 bucket;
+4. Create the process documentation in order to detail the correct use of the repository.
