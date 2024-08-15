@@ -49,4 +49,9 @@ terraform_data.test (local-exec): 32.8084 feet is equal to 10.0 meters
 terraform_data.test: Creation complete after 0s [id=04740deb-b56c-45f2-599c-e869f5343de5]
 ````
 
+## New implementations
+Below, some features to be implemented:
+1. Consider to use IAM role credentials to adhere the least privillege approach;
+2. Output the results in an S3 bucket;
+3. Create the process documentation in order to detail the correct use of the repository.
 
